@@ -10,5 +10,8 @@ public class LoginPage {
 	{
 		System.out.println("LogInPage1");
 	}
-
+	public void LogInPage2()
+	{
+		System.out.println("LogInPage2");
+	}
 }
