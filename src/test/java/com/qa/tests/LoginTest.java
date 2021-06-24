@@ -6,4 +6,8 @@ public class LoginTest {
 	{
 		System.out.println(" Login Test");
 	}
+	public void logout()
+	{
+		System.out.println(" LogoutTest");
+	}
 }
